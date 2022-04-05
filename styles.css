@@ -1,13 +1,5 @@
-h1{
-    text-align: center;
-}
-.container1{
-    border: 1px solid;
-    padding: 50px 80px 30px 15px;
-    margin: 30px;
-}
-.container2{
-    border: 1px solid;
-    padding: 100px;
+.box{
+    border: 10px solid;
+    padding: 50px 20px 30px 80px;
     margin: 30px;
 }
